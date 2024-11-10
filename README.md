@@ -1,1 +1,2 @@
 Bank Customer & Transaction Analytics Dashboard.
+This repository contains an interactive Power BI dashboard offering comprehensive insights into a bank's customer base and transaction patterns over several years. The report features key performance indicators (KPIs), customer segmentation, and trends analysis, enabling a deep dive into customer demographics, financial performance, and usage patterns.
